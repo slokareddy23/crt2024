@@ -1,4 +1,4 @@
-biggest of two numbers using nested if
+biggest of three numbers using nested if
 #include <stdio.h>
 
 int main() {
